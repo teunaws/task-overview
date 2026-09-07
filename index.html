@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DataAnnotation Tasks</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #ffffff;
+    --fg: #16181d;
+    --muted: #6b7280;
+    --line: #e4e6eb;
+    --badge-bg: #eef1f6;
+    --link: #1a56db;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14161a;
+      --fg: #e8eaed;
+      --muted: #9aa1ab;
+      --line: #2a2e35;
+      --badge-bg: #24282f;
+      --link: #7aa7ff;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 16px;
+    background: var(--bg);
+    color: var(--fg);
+    font: 15px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  }
+  h1 { font-size: 18px; margin: 0 0 4px; }
+  .checked { color: var(--muted); font-size: 13px; margin: 0 0 14px; }
+  .wrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; min-width: 420px; }
+  th, td {
+    text-align: left; padding: 9px 10px;
+    border-bottom: 1px solid var(--line); vertical-align: top;
+  }
+  th {
+    font-size: 11px; text-transform: uppercase; letter-spacing: .06em;
+    color: var(--muted); font-weight: 600; white-space: nowrap;
+  }
+  a { color: var(--link); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .name { font-weight: 500; }
+  .pay, .num, .created { white-space: nowrap; }
+  .num, .created { color: var(--muted); }
+  .badges { margin-top: 5px; display: flex; flex-wrap: wrap; gap: 4px; }
+  .badge {
+    display: inline-block; padding: 2px 7px; border-radius: 999px;
+    background: var(--badge-bg); color: var(--muted);
+    font-size: 11px; font-weight: 500; white-space: nowrap;
+  }
+  .empty { color: var(--muted); text-align: center; padding: 28px 10px; }
+</style>
+</head>
+<body>
+  <h1>DataAnnotation Tasks</h1>
+  <p class="checked">Last checked 2026-09-07 17:15 UTC &middot; 1 listed</p>
+  <div class="wrap">
+    <table>
+      <thead>
+        <tr><th>Name</th><th>Pay</th><th>Tasks</th><th>Created</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="name"><a href="https://app.dataannotation.tech/workers/projects/8c31b809-7c92-41a8-86ae-417d9ef044cc">Ummon 🤖 - Create and Evaluate Agentic Coding Tasks (ID: STA-2)</a><div class="badges"><span class="badge">Priority Pay $20/hr</span><span class="badge">Coding</span></div></td>
+          <td class="pay">$60.00/hr</td>
+          <td class="num">2</td>
+          <td class="created">Aug 19</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>
