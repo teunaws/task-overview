@@ -1,0 +1,88 @@
+{
+  "checked_at": "2026-09-07 17:49 UTC",
+  "tasks": [
+    {
+      "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
+      "name": "[QUALIFICATION] Biology Knowledge Assessment",
+      "pay": "",
+      "tasks": "1",
+      "created": "Jul 15",
+      "url": "https://app.dataannotation.tech/workers/projects/52fff835-ba98-4000-8efc-2a7e7e26b577",
+      "badges": [
+        {
+          "kind": "domain_biology",
+          "label": "Biology"
+        }
+      ]
+    },
+    {
+      "id": "8aa03753-724c-4639-9cdd-60bf495d284b",
+      "name": "[QUALIFICATION] Chemistry Knowledge Assessment",
+      "pay": "",
+      "tasks": "1",
+      "created": "Jul 15",
+      "url": "https://app.dataannotation.tech/workers/projects/8aa03753-724c-4639-9cdd-60bf495d284b",
+      "badges": [
+        {
+          "kind": "domain_chemistry",
+          "label": "Chemistry"
+        }
+      ]
+    },
+    {
+      "id": "a3033c2b-c498-4b94-bcd2-fc7f7dbfc8c3",
+      "name": "[QUALIFICATION] Math Knowledge Assessment",
+      "pay": "",
+      "tasks": "1",
+      "created": "Jul 28",
+      "url": "https://app.dataannotation.tech/workers/projects/a3033c2b-c498-4b94-bcd2-fc7f7dbfc8c3",
+      "badges": [
+        {
+          "kind": "domain_math",
+          "label": "Math"
+        }
+      ]
+    },
+    {
+      "id": "7701e2ec-e362-4975-a6c7-4809ca8c44a9",
+      "name": "[QUALIFICATION] Physics Knowledge Assessment",
+      "pay": "",
+      "tasks": "1",
+      "created": "Jul 15",
+      "url": "https://app.dataannotation.tech/workers/projects/7701e2ec-e362-4975-a6c7-4809ca8c44a9",
+      "badges": [
+        {
+          "kind": "domain_physics",
+          "label": "Physics"
+        }
+      ]
+    },
+    {
+      "id": "42cc61fc-7180-4433-8572-7c680020ab69",
+      "name": "[Reference Version] Learn to write amazing rationale comments! [Multilingual]",
+      "pay": "",
+      "tasks": "20",
+      "created": "Nov 19",
+      "url": "https://app.dataannotation.tech/workers/projects/42cc61fc-7180-4433-8572-7c680020ab69",
+      "badges": []
+    },
+    {
+      "id": "8c31b809-7c92-41a8-86ae-417d9ef044cc",
+      "name": "Ummon \ud83e\udd16 - Create and Evaluate Agentic Coding Tasks (ID: STA-2)",
+      "pay": "$60.00/hr",
+      "tasks": "2",
+      "created": "Aug 19",
+      "url": "https://app.dataannotation.tech/workers/projects/8c31b809-7c92-41a8-86ae-417d9ef044cc",
+      "badges": [
+        {
+          "kind": "priority_pay",
+          "label": "Priority Pay $20/hr"
+        },
+        {
+          "kind": "domain_coding",
+          "label": "Coding"
+        }
+      ]
+    }
+  ]
+}
