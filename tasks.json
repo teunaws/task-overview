@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-10 18:50 UTC",
+  "checked_at": "2026-09-10 22:51 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -65,24 +65,6 @@
       "created": "Nov 19",
       "url": "https://app.dataannotation.tech/workers/projects/42cc61fc-7180-4433-8572-7c680020ab69",
       "badges": []
-    },
-    {
-      "id": "8c31b809-7c92-41a8-86ae-417d9ef044cc",
-      "name": "Ummon \ud83e\udd16 - Create and Evaluate Agentic Coding Tasks (ID: STA-2)",
-      "pay": "$60.00/hr",
-      "tasks": "1",
-      "created": "Aug 19",
-      "url": "https://app.dataannotation.tech/workers/projects/8c31b809-7c92-41a8-86ae-417d9ef044cc",
-      "badges": [
-        {
-          "kind": "priority_pay",
-          "label": "Priority Pay $20/hr"
-        },
-        {
-          "kind": "domain_coding",
-          "label": "Coding"
-        }
-      ]
     }
   ]
 }
