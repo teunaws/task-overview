@@ -1,20 +1,6 @@
 {
-  "checked_at": "2026-09-17 05:58 UTC",
+  "checked_at": "2026-09-17 11:26 UTC",
   "tasks": [
-    {
-      "id": "ad0a7cd9-61f7-40ac-bb79-13b64f5b17dd",
-      "name": "[QUALIFICATION] [quick survey] Do you have long-term (10+ years) experience with any of these accents? \ud83c\udf0e",
-      "pay": "",
-      "tasks": "1",
-      "created": "Aug 23",
-      "url": "https://app.dataannotation.tech/workers/projects/ad0a7cd9-61f7-40ac-bb79-13b64f5b17dd",
-      "badges": [
-        {
-          "kind": "domain_general",
-          "label": "General"
-        }
-      ]
-    },
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
       "name": "[QUALIFICATION] Biology Knowledge Assessment",
@@ -79,28 +65,6 @@
       "created": "Nov 19",
       "url": "https://app.dataannotation.tech/workers/projects/42cc61fc-7180-4433-8572-7c680020ab69",
       "badges": []
-    },
-    {
-      "id": "3345e86f-af9e-4899-a4c4-ec437c91583e",
-      "name": "Rate And Review: Ummon \ud83e\udd16 - Create and Evaluate Agentic Coding Tasks (ID: STA-2)",
-      "pay": "$62.00/hr",
-      "tasks": "1",
-      "created": "Aug 20",
-      "url": "https://app.dataannotation.tech/workers/projects/3345e86f-af9e-4899-a4c4-ec437c91583e",
-      "badges": [
-        {
-          "kind": "priority_pay",
-          "label": "Priority Pay $22/hr"
-        },
-        {
-          "kind": "rate_and_review",
-          "label": "Rate & Review"
-        },
-        {
-          "kind": "domain_coding",
-          "label": "Coding"
-        }
-      ]
     }
   ]
 }
