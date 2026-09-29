@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29 16:01 UTC",
+  "checked_at": "2026-09-29 16:30 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -40,20 +40,6 @@
         {
           "kind": "domain_math",
           "label": "Math"
-        }
-      ]
-    },
-    {
-      "id": "7701e2ec-e362-4975-a6c7-4809ca8c44a9",
-      "name": "[QUALIFICATION] Physics Knowledge Assessment",
-      "pay": "",
-      "tasks": "1",
-      "created": "Jul 15",
-      "url": "https://app.dataannotation.tech/workers/projects/7701e2ec-e362-4975-a6c7-4809ca8c44a9",
-      "badges": [
-        {
-          "kind": "domain_physics",
-          "label": "Physics"
         }
       ]
     },
