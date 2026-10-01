@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01 23:00 UTC",
+  "checked_at": "2026-10-01 23:30 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -51,6 +51,20 @@
       "created": "Nov 19",
       "url": "https://app.dataannotation.tech/workers/projects/42cc61fc-7180-4433-8572-7c680020ab69",
       "badges": []
+    },
+    {
+      "id": "13942af8-473b-484c-a136-dd3feb2d37ee",
+      "name": "Neptune - Join a new project pilot (easy and consistent work available)! [E228]",
+      "pay": "$16.00/hr",
+      "tasks": "50",
+      "created": "Oct 1",
+      "url": "https://app.dataannotation.tech/workers/projects/13942af8-473b-484c-a136-dd3feb2d37ee",
+      "badges": [
+        {
+          "kind": "domain_general",
+          "label": "General"
+        }
+      ]
     }
   ]
 }
