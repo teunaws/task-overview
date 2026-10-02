@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02 19:30 UTC",
+  "checked_at": "2026-10-02 20:01 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -59,6 +59,20 @@
       "tasks": "50",
       "created": "Oct 1",
       "url": "https://app.dataannotation.tech/workers/projects/13942af8-473b-484c-a136-dd3feb2d37ee",
+      "badges": [
+        {
+          "kind": "domain_general",
+          "label": "General"
+        }
+      ]
+    },
+    {
+      "id": "4b5f7f43-9f9a-4f75-8ab1-b446297dd4fd",
+      "name": "Neptune - Submit a task here to report an issue or provide feedback!",
+      "pay": "",
+      "tasks": "10000",
+      "created": "Sep 20",
+      "url": "https://app.dataannotation.tech/workers/projects/4b5f7f43-9f9a-4f75-8ab1-b446297dd4fd",
       "badges": [
         {
           "kind": "domain_general",
