@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19 13:42 UTC",
+  "checked_at": "2026-10-27 22:15 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -56,7 +56,7 @@
       "id": "4b5f7f43-9f9a-4f75-8ab1-b446297dd4fd",
       "name": "Neptune - Submit a task here to report an issue or provide feedback!",
       "pay": "",
-      "tasks": "10000",
+      "tasks": "9999",
       "created": "Sep 20",
       "url": "https://app.dataannotation.tech/workers/projects/4b5f7f43-9f9a-4f75-8ab1-b446297dd4fd",
       "badges": [
@@ -65,6 +65,15 @@
           "label": "General"
         }
       ]
+    },
+    {
+      "id": "2f50af21-2a8d-4084-ac86-ddd8fe9e837f",
+      "name": "\u2b50 [Qualification] Join Us at the Leading Edge of AI \u2013 We're Hiring! \ud83d\ude80",
+      "pay": "",
+      "tasks": "1",
+      "created": "Nov 22",
+      "url": "https://app.dataannotation.tech/workers/projects/2f50af21-2a8d-4084-ac86-ddd8fe9e837f",
+      "badges": []
     },
     {
       "id": "ee7972ff-8e58-4c8a-b450-264321690f1f",
