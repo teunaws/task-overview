@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-28 02:30 UTC",
+  "checked_at": "2026-10-28 03:01 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -67,6 +67,24 @@
       ]
     },
     {
+      "id": "adaaac02-e22d-458d-adeb-388adf680f90",
+      "name": "Rate & Review: \ud80c\udd5e Thoth - Write & Label Unsafe Prompts in \ud83c\uddf3\ud83c\uddf1 Dutch (Netherlands) \ud83c\uddf3\ud83c\uddf1  [1021-1]",
+      "pay": "$30.00/hr",
+      "tasks": "2",
+      "created": "Oct 22",
+      "url": "https://app.dataannotation.tech/workers/projects/adaaac02-e22d-458d-adeb-388adf680f90",
+      "badges": [
+        {
+          "kind": "rate_and_review",
+          "label": "Rate & Review"
+        },
+        {
+          "kind": "domain_general",
+          "label": "General"
+        }
+      ]
+    },
+    {
       "id": "2f50af21-2a8d-4084-ac86-ddd8fe9e837f",
       "name": "\u2b50 [Qualification] Join Us at the Leading Edge of AI \u2013 We're Hiring! \ud83d\ude80",
       "pay": "",
@@ -79,7 +97,7 @@
       "id": "4855b5d9-307c-4ad4-8d3d-435a930d7315",
       "name": "\ud80c\udd5e Thoth - Write & Label Unsafe Prompts in \ud83c\uddf3\ud83c\uddf1 Dutch (Netherlands) \ud83c\uddf3\ud83c\uddf1  [1021-1]",
       "pay": "$30.00/hr",
-      "tasks": "2",
+      "tasks": "1",
       "created": "Oct 22",
       "url": "https://app.dataannotation.tech/workers/projects/4855b5d9-307c-4ad4-8d3d-435a930d7315",
       "badges": [
