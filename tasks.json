@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30 10:30 UTC",
+  "checked_at": "2026-10-30 11:01 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -74,20 +74,6 @@
       "created": "Nov 22",
       "url": "https://app.dataannotation.tech/workers/projects/2f50af21-2a8d-4084-ac86-ddd8fe9e837f",
       "badges": []
-    },
-    {
-      "id": "5d8e96ce-ebb5-405b-a0f9-33ac7a1f018c",
-      "name": "\ud83c\udf0e\ud83d\udc34\ud83e\udebd Pegasus Global: Do you have a Google AI Pro or Ultra Subscription?",
-      "pay": "",
-      "tasks": "1",
-      "created": "Oct 29",
-      "url": "https://app.dataannotation.tech/workers/projects/5d8e96ce-ebb5-405b-a0f9-33ac7a1f018c",
-      "badges": [
-        {
-          "kind": "domain_general",
-          "label": "General"
-        }
-      ]
     },
     {
       "id": "ee7972ff-8e58-4c8a-b450-264321690f1f",
