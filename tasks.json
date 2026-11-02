@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02 13:01 UTC",
+  "checked_at": "2026-11-02 13:30 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -74,6 +74,20 @@
       "created": "Nov 22",
       "url": "https://app.dataannotation.tech/workers/projects/2f50af21-2a8d-4084-ac86-ddd8fe9e837f",
       "badges": []
+    },
+    {
+      "id": "40099c13-503c-4ad1-a887-8791535cfeee",
+      "name": "\ud83c\udf0e\ud83d\udc34\ud83e\udebd Pegasus: Test Sheets Canvas in Your Language & Rate It [CV-LC3-579206464]",
+      "pay": "$24.00/hr",
+      "tasks": "1",
+      "created": "Oct 30",
+      "url": "https://app.dataannotation.tech/workers/projects/40099c13-503c-4ad1-a887-8791535cfeee",
+      "badges": [
+        {
+          "kind": "domain_general",
+          "label": "General"
+        }
+      ]
     },
     {
       "id": "ee7972ff-8e58-4c8a-b450-264321690f1f",
