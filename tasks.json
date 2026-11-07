@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06 17:30 UTC",
+  "checked_at": "2026-11-07 14:25 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -30,6 +30,20 @@
       ]
     },
     {
+      "id": "3db0c562-55e4-4c1b-b783-771bc1f0fd88",
+      "name": "[QUALIFICATION] Enable Disc Encryption on your Device - Required for access to Teaching AI, Alchemy, Polaris, Crucible, and Macaroon projects",
+      "pay": "$5.00",
+      "tasks": "1",
+      "created": "Jul 8",
+      "url": "https://app.dataannotation.tech/workers/projects/3db0c562-55e4-4c1b-b783-771bc1f0fd88",
+      "badges": [
+        {
+          "kind": "domain_general",
+          "label": "General"
+        }
+      ]
+    },
+    {
       "id": "a3033c2b-c498-4b94-bcd2-fc7f7dbfc8c3",
       "name": "[QUALIFICATION] Math Knowledge Assessment",
       "pay": "",
@@ -40,6 +54,20 @@
         {
           "kind": "domain_math",
           "label": "Math"
+        }
+      ]
+    },
+    {
+      "id": "324e363b-131f-486d-b6e9-383ec5aa316c",
+      "name": "[QUALIFICATION] Protect your aidatatrainer.com account with a Passkey - Required for access to Teaching AI, Alchemy, Polaris, Crucible, and Macaroon projects",
+      "pay": "$5.00",
+      "tasks": "1",
+      "created": "Jun 28",
+      "url": "https://app.dataannotation.tech/workers/projects/324e363b-131f-486d-b6e9-383ec5aa316c",
+      "badges": [
+        {
+          "kind": "domain_general",
+          "label": "General"
         }
       ]
     },
