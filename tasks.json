@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07 22:30 UTC",
+  "checked_at": "2026-11-07 23:01 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -26,20 +26,6 @@
         {
           "kind": "domain_chemistry",
           "label": "Chemistry"
-        }
-      ]
-    },
-    {
-      "id": "3db0c562-55e4-4c1b-b783-771bc1f0fd88",
-      "name": "[QUALIFICATION] Enable Disc Encryption on your Device - Required for access to Teaching AI, Alchemy, Polaris, Crucible, and Macaroon projects",
-      "pay": "$5.00",
-      "tasks": "1",
-      "created": "Jul 8",
-      "url": "https://app.dataannotation.tech/workers/projects/3db0c562-55e4-4c1b-b783-771bc1f0fd88",
-      "badges": [
-        {
-          "kind": "domain_general",
-          "label": "General"
         }
       ]
     },
