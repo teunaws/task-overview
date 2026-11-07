@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07 20:30 UTC",
+  "checked_at": "2026-11-07 21:01 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -54,20 +54,6 @@
         {
           "kind": "domain_math",
           "label": "Math"
-        }
-      ]
-    },
-    {
-      "id": "324e363b-131f-486d-b6e9-383ec5aa316c",
-      "name": "[QUALIFICATION] Protect your aidatatrainer.com account with a Passkey - Required for access to Teaching AI, Alchemy, Polaris, Crucible, and Macaroon projects",
-      "pay": "$5.00",
-      "tasks": "1",
-      "created": "Jun 28",
-      "url": "https://app.dataannotation.tech/workers/projects/324e363b-131f-486d-b6e9-383ec5aa316c",
-      "badges": [
-        {
-          "kind": "domain_general",
-          "label": "General"
         }
       ]
     },
