@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-11 09:01 UTC",
+  "checked_at": "2026-11-11 09:30 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -28,15 +28,6 @@
           "label": "Chemistry"
         }
       ]
-    },
-    {
-      "id": "4ac90485-c1ea-463e-a107-7ff6631ed6ea",
-      "name": "[QUALIFICATION] Language background questionnaire (Icelandic)",
-      "pay": "$5.00",
-      "tasks": "1",
-      "created": "Aug 30",
-      "url": "https://app.dataannotation.tech/workers/projects/4ac90485-c1ea-463e-a107-7ff6631ed6ea",
-      "badges": []
     },
     {
       "id": "a3033c2b-c498-4b94-bcd2-fc7f7dbfc8c3",
