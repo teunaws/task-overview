@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-22 10:01 UTC",
+  "checked_at": "2026-11-22 10:30 UTC",
   "tasks": [
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
@@ -60,24 +60,6 @@
       "created": "Sep 20",
       "url": "https://app.dataannotation.tech/workers/projects/4b5f7f43-9f9a-4f75-8ab1-b446297dd4fd",
       "badges": [
-        {
-          "kind": "domain_general",
-          "label": "General"
-        }
-      ]
-    },
-    {
-      "id": "01a1fb9f-c4e0-7f5f-a790-cf2db5517497",
-      "name": "Review & Score: \ud80c\udd5e Thoth - Write & Label Unsafe Prompts in \ud83c\uddf3\ud83c\uddf1 Dutch (Netherlands) \ud83c\uddf3\ud83c\uddf1 [1120-1]",
-      "pay": "$30.00/hr",
-      "tasks": "1",
-      "created": "Nov 21",
-      "url": "https://app.dataannotation.tech/workers/projects/01a1fb9f-c4e0-7f5f-a790-cf2db5517497",
-      "badges": [
-        {
-          "kind": "rate_and_review",
-          "label": "Rate & Review"
-        },
         {
           "kind": "domain_general",
           "label": "General"
