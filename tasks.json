@@ -1,6 +1,20 @@
 {
-  "checked_at": "2026-11-25 06:30 UTC",
+  "checked_at": "2026-11-25 07:01 UTC",
   "tasks": [
+    {
+      "id": "01a21175-ff0f-7cbd-897d-93bee043a123",
+      "name": "[PRIORITY] Check the accuracy and quality of an AI generated image! (ID: NB-8)",
+      "pay": "$28.00/hr",
+      "tasks": "2",
+      "created": "Nov 25",
+      "url": "https://app.dataannotation.tech/workers/projects/01a21175-ff0f-7cbd-897d-93bee043a123",
+      "badges": [
+        {
+          "kind": "domain_general",
+          "label": "General"
+        }
+      ]
+    },
     {
       "id": "52fff835-ba98-4000-8efc-2a7e7e26b577",
       "name": "[QUALIFICATION] Biology Knowledge Assessment",
